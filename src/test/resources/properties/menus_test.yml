@@ -1,0 +1,90 @@
+menu:
+  menus:
+    # Buffalo Montesson
+    - restaurantId: 1
+      currency: EUR
+      products:
+      - productId: 1
+        type: Starter
+        name: Carpaccio
+        price: 6.78
+      - productId: 2
+        type: Starter
+        name: Salade
+        price: 5.62
+      - productId: 3
+        type: Starter
+        name: Fried Onions
+        price:  5.89
+      - productId: 4
+        type: Main dish
+        name: Steak Frites
+        price: 8.99
+      - productId: 5
+        type: Main dish
+        name: Chicken Conflit
+        price: 10.99
+      - productId: 6
+        type: Main dish
+        name: French Onion Soup
+        price: 5.89
+      - productId: 7
+        type: Main dish
+        name: Bouillabaisse
+        price: 9.99
+      - productId: 8
+        type: Main dish
+        name: Quiche Lorraine
+        price: 6.49
+      - productId: 9
+        type: Dessert
+        name: Cheese Cake
+        price: 3.49
+      - productId: 10
+        type: Dessert
+        name: Tartre au Citron
+        price: 3.99
+      - productId: 11
+        type: Dessert
+        name: Creme Brulee
+        price: 5.49
+      - productId: 12
+        type: Dessert
+        name: Chocolate Fondant
+        price: 5.89
+  # Au pere tranquille
+    - restaurantId: 2
+      currency: USD
+      products:
+      - productId: 1
+        type: Pizza
+        name: Reine
+        price: 12.5
+      - productId: 2
+        type: Pizza
+        name: Calzone
+        price: 13.0
+      - productId: 3
+        type: Pizza
+        name: Quatre fromages
+        price:  12.5
+      - productId: 4
+        type: Pizza
+        name: Bresaola
+        price: 13.5
+      - productId: 5
+        type: Pizza
+        name: Paysanne
+        price: 12.5
+      - productId: 6
+        type: Orientale
+        name: French Onion Soup
+        price: 13.5
+      - productId: 7
+        type: Pizza
+        name: Hawaienne
+        price: 13.0
+      - productId: 8
+        type: Pizza
+        name: Quatre saisons
+        price: 12.5

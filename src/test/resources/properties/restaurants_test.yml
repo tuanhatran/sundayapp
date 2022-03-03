@@ -1,0 +1,32 @@
+restaurant:
+  restaurants:
+    - id: 1
+      name: Buffalo Montesson
+      type: Chain Grill
+      address: 3-11 Avenue Gabriel Péri, Montesson 78360, France
+      currency: EUR
+    - id: 2
+      name: Au pere tranquille
+      type: Pizzaria - Restaurant general
+      address: 40 Rue René Brûlay, 78500 Sartrouville, France
+      currency: USD
+    - id: 3
+      name: Yaka Sushi
+      type: Asian
+      address: 32 Rue René Brûlay, 78500 Sartrouville, France
+      currency: YEN
+    - id: 4
+      name: Bolly Bolly
+      type: India
+      address: 32 Rue René Brûlay, 78500 Sartrouville, France
+      currency: EUR
+    - id: 5
+      name: Kebab de la gare
+      type: Casual
+      address: 6 Rue Turgot, 78500 Sartrouville, France
+      currency: EUR
+    - id: 6
+      name: Macdonals Sartrouville
+      type: Chain Macdonals
+      address: Angle Avenue Maurice Berteaux et, Rue de la Convention, 78500 Sartrouville, France
+      currency: EUR

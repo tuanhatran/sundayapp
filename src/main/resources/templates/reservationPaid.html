@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <style>
+        .tab {
+            display: inline-block;
+            margin-left: 40px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <h1> Thank you, your reservation is Paid</h1>
+    <ul>
+        <li th:each="payment : ${payments}">
+            <span th:text="${payment.paymentId}"></span><span class="tab"></span><span th:text="${payment.payerId}"></span>
+        </li>
+    </ul>
+</body>
+</html>
